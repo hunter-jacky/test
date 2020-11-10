@@ -1,6 +1,7 @@
 # include<iostream>
 using namespace std;
 int main(){
-    cout<<"hello world"<<endl;
+    cout<<"i delete a sentence"<<endl;
+    cout<<"also, add a new sentence"<<endl;
     cout<<"it's the first code in github"<<endl;
 }
